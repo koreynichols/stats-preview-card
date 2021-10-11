@@ -48,6 +48,10 @@ body{
     font-family: Inter;
 }
 
+h1 {
+    font-weight: 700;
+}
+
 .container{
     width: 80%;
     margin: 0 auto;
@@ -82,7 +86,6 @@ body{
 .left-content p {
     color: hsla(0, 0%, 100%, 0.75);
     margin: 7% 0 15% 0;
-    font-family: 'Lexend Deca';
 }
 
 .stats {
@@ -92,6 +95,7 @@ body{
 
 .stats div p {
     text-transform: uppercase;
+    font-family: 'Lexend Deca';
 }
 
 .right img {
