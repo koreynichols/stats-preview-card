@@ -98,8 +98,11 @@ h1 {
     font-family: 'Lexend Deca';
 }
 
-.right img {
+.right {
     max-height: 100%;
-    max-width: 100;
+    max-width: 100%;
     border-radius: 0 10px 10px 0;
+    background-image: url("./images/image-header-desktop.jpg");
+    background-color: hsl(277, 64%, 61%);
+    background-blend-mode: multiply;
 }
